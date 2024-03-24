@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Heig`s Base for 1.6.1170.0",
+    "description": "A small modpack based on Skyrim Essentials and tech. parts of Ro and Do Not Go Gently - there is no mods that changing gameplay, crafting, perks of anything like that. Just frameworks like OAR, FLM, KID, SPID, and fixes like USSEP, USMP, script and mesh fixes. Also - AIT for UI; Dual Wield Parry - and they are disableable if you want. Everything just for start creating your own modpack!",
+    "author": "Heig",
+    "maintainers": [
+      "github/DarelHeig"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "testing",
+      "Base"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "-",
+      "image": "-",
+      "readme": "-",
+      "download": "https://authored-files.wabbajack.org/Heig%60s%20Base%20for%201.6.1170.0.wabbajack_c1b5ba20-dd09-4b61-ad57-395dfa368346",
+      "machineURL": "HeigBase",
+      "discordURL": "-"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "BFEEwK4FSgw=",
+      "Size": 30552503,
+      "NumberOfArchives": 151,
+      "SizeOfArchives": 708634004,
+      "NumberOfInstalledFiles": 12783,
+      "SizeOfInstalledFiles": 2330573169
+    },
+    "version": "0.1.0"
+  }
+]
